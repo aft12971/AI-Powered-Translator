@@ -1,9 +1,9 @@
-# PolyglotNLP
+# AI Translator
 An AI-powered toolkit for efficient language translation, combining data preprocessing and RNN models in a user-friendly package for NLP development
 
 ## RNN Perfomance Analysis in Machine Translation
 
-Our project explores the application and comparative performance of different Recurrent Neural Network (RNN) architectures - Simple RNN, Gated Recurrent Unit (GRU), and Long Short-Term Memory (LSTM) - in the field of machine translation. The focus is on evaluating how these models translate from English to French, assessed through accuracy and BLEU scores. The findings highlight LSTM as the most effective model, with the highest accuracy and BLEU scores, challenging initial expectations about the capabilities of these neural network architectures.
+The project explores the application and comparative performance of different Recurrent Neural Network (RNN) architectures - Simple RNN, Gated Recurrent Unit (GRU), and Long Short-Term Memory (LSTM) - in the field of machine translation. The focus is on evaluating how these models translate from English to French, assessed through accuracy and BLEU scores. The findings highlight LSTM as the most effective model, with the highest accuracy and BLEU scores, challenging initial expectations about the capabilities of these neural network architectures.
 
 
 ## Project Overview
